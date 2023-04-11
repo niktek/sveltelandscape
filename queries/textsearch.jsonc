@@ -1,0 +1,670 @@
+{
+	//https://registry.npmjs.org/-/v1/search?text=svelte&size=10&from=0
+	"objects": [
+		{
+			"package": {
+				"name": "svelte",
+				"scope": "unscoped",
+				"version": "3.58.0",
+				"description": "Cybernetically enhanced web apps",
+				"keywords": [
+					"UI",
+					"framework",
+					"templates",
+					"templating"
+				],
+				"date": "2023-03-30T17:11:36.678Z",
+				"links": {
+					"npm": "https://www.npmjs.com/package/svelte",
+					"homepage": "https://svelte.dev",
+					"repository": "https://github.com/sveltejs/svelte",
+					"bugs": "https://github.com/sveltejs/svelte/issues"
+				},
+				"author": {
+					"name": "Rich Harris"
+				},
+				"publisher": {
+					"username": "conduitry",
+					"email": "npm@chor.date"
+				},
+				"maintainers": [
+					{
+						"username": "rich_harris",
+						"email": "richard.a.harris@gmail.com"
+					},
+					{
+						"username": "conduitry",
+						"email": "npm@chor.date"
+					}
+				]
+			},
+			"score": {
+				"final": 0.4525153268357755,
+				"detail": {
+					"quality": 0.6498411507432217,
+					"popularity": 0.4025608998461211,
+					"maintenance": 0.3333333333333333
+				}
+			},
+			"searchScore": 100000.445
+		},
+		{
+			"package": {
+				"name": "@sveltejs/vite-plugin-svelte",
+				"scope": "sveltejs",
+				"version": "2.0.4",
+				"description": "The official [Svelte](https://svelte.dev) plugin for [Vite](https://vitejs.dev).",
+				"keywords": [
+					"vite-plugin",
+					"vite plugin",
+					"vite",
+					"svelte"
+				],
+				"date": "2023-03-30T07:12:23.799Z",
+				"links": {
+					"npm": "https://www.npmjs.com/package/%40sveltejs%2Fvite-plugin-svelte",
+					"homepage": "https://github.com/sveltejs/vite-plugin-svelte#readme",
+					"repository": "https://github.com/sveltejs/vite-plugin-svelte",
+					"bugs": "https://github.com/sveltejs/vite-plugin-svelte/issues"
+				},
+				"author": {
+					"name": "dominikg"
+				},
+				"publisher": {
+					"username": "svelte-admin",
+					"email": "richard.a.harris+svelte@gmail.com"
+				},
+				"maintainers": [
+					{
+						"username": "rich_harris",
+						"email": "richard.a.harris@gmail.com"
+					},
+					{
+						"username": "svelte-admin",
+						"email": "richard.a.harris+svelte@gmail.com"
+					},
+					{
+						"username": "conduitry",
+						"email": "npm@chor.date"
+					},
+					{
+						"username": "dominik_g",
+						"email": "dominik.goepel@gmx.de"
+					}
+				]
+			},
+			"score": {
+				"final": 0.44211537098421966,
+				"detail": {
+					"quality": 0.8056972456121487,
+					"popularity": 0.23925580181116682,
+					"maintenance": 0.3333333333333333
+				}
+			},
+			"searchScore": 0.0023382155
+		},
+		{
+			"package": {
+				"name": "@sveltejs/kit",
+				"scope": "sveltejs",
+				"version": "1.15.2",
+				"description": "This is the [SvelteKit](https://kit.svelte.dev) framework and CLI.",
+				"date": "2023-04-06T16:22:35.435Z",
+				"links": {
+					"npm": "https://www.npmjs.com/package/%40sveltejs%2Fkit",
+					"homepage": "https://kit.svelte.dev",
+					"repository": "https://github.com/sveltejs/kit",
+					"bugs": "https://github.com/sveltejs/kit/issues"
+				},
+				"publisher": {
+					"username": "svelte-admin",
+					"email": "richard.a.harris+svelte@gmail.com"
+				},
+				"maintainers": [
+					{
+						"username": "rich_harris",
+						"email": "richard.a.harris@gmail.com"
+					},
+					{
+						"username": "svelte-admin",
+						"email": "richard.a.harris+svelte@gmail.com"
+					},
+					{
+						"username": "conduitry",
+						"email": "npm@chor.date"
+					},
+					{
+						"username": "dominik_g",
+						"email": "dominik.goepel@gmx.de"
+					}
+				]
+			},
+			"score": {
+				"final": 0.4683278286487265,
+				"detail": {
+					"quality": 0.8968167778192526,
+					"popularity": 0.23604608181795456,
+					"maintenance": 0.3333333333333333
+				}
+			},
+			"searchScore": 0.0019017697
+		},
+		{
+			"package": {
+				"name": "svelte-inview",
+				"scope": "unscoped",
+				"version": "4.0.0",
+				"description": "A Svelte action that monitors an element enters or leaves the viewport or a parent element. Performant and efficient thanks to using Intersection Observer under the hood.",
+				"keywords": [
+					"svelte",
+					"observer",
+					"observing",
+					"intersection",
+					"viewport",
+					"inviewport",
+					"in-view",
+					"in-viewport",
+					"inview",
+					"observe",
+					"waypoint",
+					"intersection-observer",
+					"intersection-observer-api",
+					"performance",
+					"monitor",
+					"scroll-direction",
+					"scroll",
+					"direction",
+					"lazy",
+					"lazy-loading",
+					"scrolling",
+					"animations",
+					"compile",
+					"compiler",
+					"root",
+					"root-margin",
+					"threshold",
+					"visibility",
+					"visible",
+					"infinite-scrolling",
+					"infinite",
+					"scrolling",
+					"intersecting",
+					"async",
+					"asynchronously",
+					"asynchronous",
+					"preload",
+					"detect"
+				],
+				"date": "2023-03-15T20:07:07.739Z",
+				"links": {
+					"npm": "https://www.npmjs.com/package/svelte-inview",
+					"homepage": "https://github.com/maciekgrzybek/svelte-inview",
+					"bugs": "https://github.com/maciekgrzybek/svelte-inview/issues"
+				},
+				"author": {
+					"name": "Maciek Grzybek",
+					"email": "maciekgrzybek1@gmail.com",
+					"url": "https://maciekgrzybek.dev",
+					"username": "maciekgrzybek"
+				},
+				"publisher": {
+					"username": "maciekgrzybek",
+					"email": "maciekgrzybek1@gmail.com"
+				},
+				"maintainers": [
+					{
+						"username": "maciekgrzybek",
+						"email": "maciekgrzybek1@gmail.com"
+					}
+				]
+			},
+			"score": {
+				"final": 0.40824550379365154,
+				"detail": {
+					"quality": 0.8882836190257548,
+					"popularity": 0.07169643262645267,
+					"maintenance": 0.3333333333333333
+				}
+			},
+			"searchScore": 0.00035041108
+		},
+		{
+			"package": {
+				"name": "svelte-preprocess",
+				"scope": "unscoped",
+				"version": "5.0.3",
+				"description": "A Svelte preprocessor wrapper with baked-in support for commonly used preprocessors",
+				"keywords": [
+					"svelte",
+					"preprocess",
+					"less",
+					"stylus",
+					"sass",
+					"scss",
+					"pug",
+					"coffeescript"
+				],
+				"date": "2023-03-17T13:55:14.476Z",
+				"links": {
+					"npm": "https://www.npmjs.com/package/svelte-preprocess",
+					"homepage": "https://github.com/sveltejs/svelte-preprocess#readme",
+					"repository": "https://github.com/sveltejs/svelte-preprocess",
+					"bugs": "https://github.com/sveltejs/svelte-preprocess/issues"
+				},
+				"author": {
+					"name": "Christian Kaisermann",
+					"email": "christian@kaisermann.me",
+					"username": "kaisermann"
+				},
+				"publisher": {
+					"username": "dummdidumm",
+					"email": "sholthausen@web.de"
+				},
+				"maintainers": [
+					{
+						"username": "kaisermann",
+						"email": "christian@kaisermann.me"
+					},
+					{
+						"username": "dummdidumm",
+						"email": "sholthausen@web.de"
+					}
+				]
+			},
+			"score": {
+				"final": 0.3711666728899335,
+				"detail": {
+					"quality": 0.5479034532239171,
+					"popularity": 0.25751134358883354,
+					"maintenance": 0.3333333333333333
+				}
+			},
+			"searchScore": 0.0003298821
+		},
+		{
+			"package": {
+				"name": "svelte-subscribe",
+				"scope": "unscoped",
+				"version": "1.0.5",
+				"description": "Subscribe to non top-level stores in your Svelte templates",
+				"keywords": [
+					"svelte",
+					"sveltejs",
+					"stores",
+					"subscribe",
+					"subscription"
+				],
+				"date": "2022-08-13T14:19:45.364Z",
+				"links": {
+					"npm": "https://www.npmjs.com/package/svelte-subscribe",
+					"homepage": "https://github.com/bryanmylee/svelte-subscribe#readme",
+					"repository": "https://github.com/bryanmylee/svelte-subscribe",
+					"bugs": "https://github.com/bryanmylee/svelte-subscribe/issues"
+				},
+				"author": {
+					"name": "Bryan Lee"
+				},
+				"publisher": {
+					"username": "bryanmylee",
+					"email": "bryanmylee@gmail.com"
+				},
+				"maintainers": [
+					{
+						"username": "bryanmylee",
+						"email": "bryanmylee@gmail.com"
+					}
+				]
+			},
+			"score": {
+				"final": 0.4047710977336092,
+				"detail": {
+					"quality": 0.912160010919558,
+					"popularity": 0.04767950405695037,
+					"maintenance": 0.3269579086794548
+				}
+			},
+			"searchScore": 0.00031899812
+		},
+		{
+			"package": {
+				"name": "tsparticles-engine",
+				"scope": "unscoped",
+				"version": "2.9.3",
+				"description": "Easily create highly customizable particle, confetti and fireworks animations and use them as animated backgrounds for your website. Ready to use components available also for React, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Riot.js, Inferno.",
+				"keywords": [
+					"front-end",
+					"frontend",
+					"tsparticles",
+					"particles.js",
+					"particlesjs",
+					"particles",
+					"particle",
+					"canvas",
+					"jsparticles",
+					"xparticles",
+					"particles-js",
+					"particles-bg",
+					"particles-bg-vue",
+					"particles-ts",
+					"particles.ts",
+					"react-particles-js",
+					"react-particles.js",
+					"react-particles",
+					"react",
+					"reactjs",
+					"vue-particles",
+					"ngx-particles",
+					"angular-particles",
+					"particleground",
+					"vue",
+					"vuejs",
+					"preact",
+					"preactjs",
+					"jquery",
+					"angularjs",
+					"angular",
+					"typescript",
+					"javascript",
+					"animation",
+					"web",
+					"html5",
+					"web-design",
+					"webdesign",
+					"css",
+					"html",
+					"css3",
+					"animated",
+					"background",
+					"confetti",
+					"canvas",
+					"fireworks",
+					"fireworks-js",
+					"confetti-js",
+					"confettijs",
+					"fireworksjs",
+					"canvas-confetti"
+				],
+				"date": "2023-02-12T18:46:08.432Z",
+				"links": {
+					"npm": "https://www.npmjs.com/package/tsparticles-engine",
+					"homepage": "https://particles.js.org",
+					"repository": "https://github.com/matteobruni/tsparticles",
+					"bugs": "https://github.com/matteobruni/tsparticles/issues"
+				},
+				"author": {
+					"name": "Matteo Bruni",
+					"email": "matteo.bruni@me.com"
+				},
+				"publisher": {
+					"username": "matteobruni",
+					"email": "ar3s@icloud.com"
+				},
+				"maintainers": [
+					{
+						"username": "ar3s",
+						"email": "mbruni88@icloud.com"
+					},
+					{
+						"username": "matteobruni",
+						"email": "ar3s@icloud.com"
+					}
+				]
+			},
+			"score": {
+				"final": 0.4294243720476945,
+				"detail": {
+					"quality": 0.6036218649608402,
+					"popularity": 0.3762032739793596,
+					"maintenance": 0.3333333333333333
+				}
+			},
+			"searchScore": 0.0003147369
+		},
+		{
+			"package": {
+				"name": "@vtmn/svelte",
+				"scope": "vtmn",
+				"version": "2.0.0",
+				"description": "Decathlon Design System - Vitamin Svelte components library",
+				"keywords": [
+					"design-system",
+					"ui-kit",
+					"libraries",
+					"svelte",
+					"vitamin"
+				],
+				"date": "2023-04-04T09:53:17.607Z",
+				"links": {
+					"npm": "https://www.npmjs.com/package/%40vtmn%2Fsvelte",
+					"homepage": "https://github.com/Decathlon/vitamin-web/tree/main/packages/sources/svelte",
+					"repository": "https://github.com/Decathlon/vitamin-web",
+					"bugs": "https://github.com/Decathlon/vitamin-web/issues"
+				},
+				"publisher": {
+					"username": "ossdecathlon",
+					"email": "oss@decathlon.com"
+				},
+				"maintainers": [
+					{
+						"username": "ossdecathlon",
+						"email": "oss@decathlon.com"
+					},
+					{
+						"username": "lthieb05",
+						"email": "laurent.thiebault@decathlon.com"
+					}
+				]
+			},
+			"score": {
+				"final": 0.39401950256932505,
+				"detail": {
+					"quality": 0.8021445646632367,
+					"popularity": 0.10488419001053556,
+					"maintenance": 0.3333333333333333
+				}
+			},
+			"searchScore": 0.00030212736
+		},
+		{
+			"package": {
+				"name": "@storybook/addon-svelte-csf",
+				"scope": "storybook",
+				"version": "3.0.0",
+				"description": "Allows to write stories in Svelte syntax",
+				"keywords": [
+					"storybook-addons",
+					"svelte"
+				],
+				"date": "2023-04-03T12:58:44.387Z",
+				"links": {
+					"npm": "https://www.npmjs.com/package/%40storybook%2Faddon-svelte-csf",
+					"homepage": "https://github.com/storybookjs/addon-svelte-csf#readme",
+					"repository": "https://github.com/storybookjs/addon-svelte-csf",
+					"bugs": "https://github.com/storybookjs/addon-svelte-csf/issues"
+				},
+				"publisher": {
+					"username": "shilman",
+					"email": "michael@lab80.co"
+				},
+				"maintainers": [
+					{
+						"username": "shaunlloyd",
+						"email": "shaunlloydmedia@gmail.com"
+					},
+					{
+						"username": "kylegach",
+						"email": "kyle.gach@gmail.com"
+					},
+					{
+						"username": "tooppaaa",
+						"email": "clementdungler@gmail.com"
+					},
+					{
+						"username": "ndelangen",
+						"email": "ndelangen@me.com"
+					},
+					{
+						"username": "shilman",
+						"email": "michael@lab80.co"
+					},
+					{
+						"username": "alexandrebodin",
+						"email": "bodin.alex@gmail.com"
+					},
+					{
+						"username": "hypnosphi",
+						"email": "talpa@yandex.ru"
+					},
+					{
+						"username": "danielduan",
+						"email": "dduan@yahoo.com"
+					},
+					{
+						"username": "igor-dv",
+						"email": "davydkin.igor@gmail.com"
+					},
+					{
+						"username": "pksunkara",
+						"email": "pavan.sss1991@gmail.com"
+					},
+					{
+						"username": "tmeasday",
+						"email": "tom@thesnail.org"
+					},
+					{
+						"username": "gongreg",
+						"email": "gytis.vinclovas@gmail.com"
+					},
+					{
+						"username": "domyen",
+						"email": "dom@hichroma.com"
+					},
+					{
+						"username": "usulpro",
+						"email": "regx@usul.su"
+					},
+					{
+						"username": "kylesuss",
+						"email": "susskyle@gmail.com"
+					},
+					{
+						"username": "ghengeveld",
+						"email": "info@ghengeveld.nl"
+					},
+					{
+						"username": "pago",
+						"email": "patrick.gotthardt@trivago.com"
+					},
+					{
+						"username": "dandean",
+						"email": "me@dandean.com"
+					},
+					{
+						"username": "codebyalex",
+						"email": "wilsonc.alexander@gmail.com"
+					},
+					{
+						"username": "mrmckeb",
+						"email": "mrmckeb.npm@outlook.com"
+					},
+					{
+						"username": "dannyhw",
+						"email": "danny.h.williams@hotmail.com"
+					},
+					{
+						"username": "winkervsbecks",
+						"email": "varunvachhar@gmail.com"
+					},
+					{
+						"username": "rvasikarla",
+						"email": "vasikarla.raj@gmail.com"
+					},
+					{
+						"username": "amalik2",
+						"email": "ahnmalik2@gmail.com"
+					},
+					{
+						"username": "lshadler",
+						"email": "lshadler13@gmail.com"
+					},
+					{
+						"username": "phated",
+						"email": "blaine.bublitz@gmail.com"
+					},
+					{
+						"username": "yannbf",
+						"email": "yannbf@gmail.com"
+					},
+					{
+						"username": "dylanpiercey",
+						"email": "pierceydylan@gmail.com"
+					},
+					{
+						"username": "monkeyworks",
+						"email": "igor.szyporyn@gmail.com"
+					},
+					{
+						"username": "darleendenno",
+						"email": "darleendenno@gmail.com"
+					}
+				]
+			},
+			"score": {
+				"final": 0.4036497566568062,
+				"detail": {
+					"quality": 0.8882836190257548,
+					"popularity": 0.05856572652118036,
+					"maintenance": 0.3333333333333333
+				}
+			},
+			"searchScore": 0.00029101688
+		},
+		{
+			"package": {
+				"name": "svelte-pieces",
+				"scope": "unscoped",
+				"version": "1.0.59",
+				"description": "Useful Svelte UI pieces for building web apps",
+				"keywords": [
+					"Svelte",
+					"SvelteKit",
+					"Typescript",
+					"UI",
+					"Component library",
+					"Kitbook"
+				],
+				"date": "2023-04-11T01:44:34.101Z",
+				"links": {
+					"npm": "https://www.npmjs.com/package/svelte-pieces",
+					"homepage": "https://svelte-pieces.vercel.app",
+					"repository": "https://github.com/jacob-8/kitbook",
+					"bugs": "https://github.com/jacob-8/kitbook/issues"
+				},
+				"author": {
+					"name": "Jacob Bowdoin"
+				},
+				"publisher": {
+					"username": "jacobbowdoin",
+					"email": "jacob@livingtongues.org"
+				},
+				"maintainers": [
+					{
+						"username": "jacobbowdoin",
+						"email": "jacob@livingtongues.org"
+					}
+				]
+			},
+			"score": {
+				"final": 0.40516928332464097,
+				"detail": {
+					"quality": 0.9348350689828703,
+					"popularity": 0.023005988466037863,
+					"maintenance": 0.3333333333333333
+				}
+			},
+			"searchScore": 0.0002776462
+		}
+	],
+	"total": 6651,
+	"time": "Tue Apr 11 2023 03:13:19 GMT+0000 (Coordinated Universal Time)"
+}
